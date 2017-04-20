@@ -3,7 +3,7 @@ package com.lyf.entity;
 import java.io.Serializable;
 
 /*
- *ÓÃ»§ÊµÌåÀà
+ *ç”¨æˆ·å®ä½“ç±»
  */
 public class User implements Serializable {
 
