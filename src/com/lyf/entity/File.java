@@ -2,6 +2,9 @@ package com.lyf.entity;
 
 import java.io.Serializable;
 
+/*
+ *文件实体类
+ */
 public class File implements Serializable {
 
 	private static final long serialVersionUID = 7688406831289658196L;
