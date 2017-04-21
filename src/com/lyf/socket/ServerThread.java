@@ -11,6 +11,9 @@ import com.lyf.service.FileService;
 import com.lyf.service.UserService;
 import com.lyf.util.CommandTransfer;
 
+/*
+ *多线程服务端
+ */
 public class ServerThread extends Thread {
 	
 	private Socket socket = null;
